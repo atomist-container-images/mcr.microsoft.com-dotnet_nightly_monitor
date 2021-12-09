@@ -1,2 +1,2 @@
 # Tags: 6.0.0-alpine-amd64
-FROM dotnet/nightly/monitor:6.0.0-alpine-amd64
+FROM mcr.microsoft.com/dotnet/nightly/monitor:6.0.0-alpine-amd64
